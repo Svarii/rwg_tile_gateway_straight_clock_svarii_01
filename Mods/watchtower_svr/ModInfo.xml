@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="watchtower_svr" /> 
+    <DisplayName value="POIs in the middle of the road" /> 
+    <Version value="0.5" />
+    <Description value="Random Things in the middle of the roads." />
+    <Author value="Svarii" />
+    <Website value="" />
+</xml>

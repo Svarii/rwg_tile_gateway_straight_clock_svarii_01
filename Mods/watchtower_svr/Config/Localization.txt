@@ -1,0 +1,2 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context
+rwg_tile_gateway_straight_clock_svarii_01,POI,POIName,,x,"WatchTower 7",,,,,,,,,,,,,
